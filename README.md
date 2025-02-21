@@ -1,0 +1,1 @@
+# my-examples-good-architectural-practices
